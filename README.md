@@ -1,4 +1,4 @@
-# Html-code-editor
+# Slate Editor
 
 ![Sample](https://user-images.githubusercontent.com/87202354/129399444-dbf41d7f-d72a-4ad7-9072-6f71e437b067.gif)
 
