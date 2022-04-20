@@ -5,7 +5,6 @@
 
   #### It can preview Html code
   #### It can also link to external stylesheets or scripts like bootstrap or fontawesom icons etc...
-  #### It uses monaco editor the same editor used by visual studio code
   
 ## Disadvantages
   #### it cannot display image files from local computer
