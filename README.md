@@ -20,4 +20,4 @@
 ## Stable Version
    
    #### There is a new code editor called Terra-Code Which is more powerful and will receive more updates
-   #### It's Link : https://terra-code.herokuapp.com/
+   #### It's Link : https://terra-c.web.app
